@@ -2,7 +2,9 @@
 
 ### Hi there, I'm n-anselm.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-anselm&langs_count=5&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-anselm&bg_color=30,0062FF,00CCFF&title_color=fff&text_color=fff&border_radius=12)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-anselm&langs_count=5&title_color=fff&icon_color=0062FF&text_color=fff&bg_color=30,0062FF,00CCFF&border_radius=12)
 
 <!--
 <tr>
