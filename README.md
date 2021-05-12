@@ -2,6 +2,11 @@
 
 ### Hi there, I'm n-anselm.
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/n-anselm/count.svg" />
+</p>
+
 <!--
 **n-anselm/n-anselm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
