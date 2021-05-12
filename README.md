@@ -2,10 +2,12 @@
 
 ### Hi there, I'm n-anselm.
 
-<tr>
-   <td>You are visitor</td>
-   <td><img src="https://profile-counter.glitch.me/n-anselm/count.svg" alt="" /></td>
- </tr>
+<table>
+   <tr>
+      <td>You are visitor</td>
+      <td><img src="https://profile-counter.glitch.me/n-anselm/count.svg" alt="" /></td>
+   </tr>
+</table>
 
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/n-anselm/count.svg)
