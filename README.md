@@ -1,6 +1,6 @@
-### Hi there, I'm n-anselm.
+<img src="https://github.com/n-anselm/n-anselm/blob/main/res/GitHub%20Profile%20Header.png" title="Profile header" />
 
-Will be updated soon...
+### Hi there, I'm n-anselm.
 
 <!--
 **n-anselm/n-anselm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
