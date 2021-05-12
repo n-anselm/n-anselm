@@ -2,13 +2,11 @@
 
 ### Hi there, I'm n-anselm.
 
+<!--
 <tr>
    <td>You are visitor</td>
    <td><img src="https://profile-counter.glitch.me/n-anselm/count.svg" alt="" /></td>
 </tr>
-
-<!--
-![Visitor Count](https://profile-counter.glitch.me/n-anselm/count.svg)
 -->
 
 <!--
@@ -19,8 +17,6 @@
 -->
 
 <!--
-**n-anselm/n-anselm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
