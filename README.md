@@ -1,4 +1,4 @@
-<img src="https://github.com/n-anselm/n-anselm/blob/main/res/GitHub%20Profile%20Header.png" title="Profile header" />
+<img src="https://github.com/n-anselm/n-anselm/blob/main/res/GitHub%20Profile%20Header%202.1.png" title="Profile header" />
 
 ### Hi there, I'm n-anselm.
 
