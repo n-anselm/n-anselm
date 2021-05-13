@@ -6,6 +6,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-anselm&langs_count=5&title_color=fff&icon_color=0062FF&text_color=fff&bg_color=30,2E73A8,564695&border_radius=12)
 
 <!--
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-anselm" />
+-->
+
+<!--
 <tr>
    <td>You are visitor</td>
    <td><img src="https://profile-counter.glitch.me/n-anselm/count.svg" alt="" /></td>
