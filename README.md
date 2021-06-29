@@ -1,9 +1,18 @@
 <img src="https://github.com/n-anselm/n-anselm/blob/main/res/GitHub%20Profile%20Header%202.1.png" title="Profile header" />
 
 ### Hi there, I'm n-anselm.
+---
+### Skills:
+- Java
+- Kotlin
+- Python
+- Android
+- Linux
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-anselm&bg_color=30,2E73A8,564695&title_color=fff&text_color=fff&border_radius=12)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-anselm&langs_count=5&title_color=fff&icon_color=0062FF&text_color=fff&bg_color=30,2E73A8,564695&border_radius=12)
+-->
 
 <!--
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-anselm" />
