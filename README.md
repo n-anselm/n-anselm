@@ -2,12 +2,13 @@
 
 ### Hi there, I'm n-anselm.
 ---
-### Skills:
-- Java
-- Kotlin
-- Python
-- Android
-- Linux
+
+Skills | Level
+-----|-----
+**Java** | Intermediate
+**Linux** | Intermediate
+**Kotlin** | Beginner
+**Python** | Beginner
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-anselm&bg_color=30,2E73A8,564695&title_color=fff&text_color=fff&border_radius=12)
