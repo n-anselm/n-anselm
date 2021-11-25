@@ -1,14 +1,36 @@
 <img src="https://github.com/n-anselm/n-anselm/blob/main/res/GitHub%20Profile%20Header%202.1.png" title="Profile header" />
 
-### Hi there, I'm n-anselm.
+#### Hi, I'm n-anselm.
+
+### Interests
+- Artificial Intelligence
+- Cryptocurrency
+- Ethical Hacking / Pentesting
+- Graphic Design
+- IoT
+- Linux
+- Machine Learning
+- Open Source
+- Software Development
+
 ---
 
 Skills | Level
 -----|-----
+**Markdown** | Pro
 **Java** | Intermediate
 **Linux** | Intermediate
-**Kotlin** | Beginner
+**Bash** | Intermediate
 **Python** | Beginner
+**HTML** | Beginner
+**CSS** | Beginner
+**Kotlin** | Beginner
+
+---
+
+Operating system: Manjaro Linux (Xfce, Deepin)
+
+Hardware: Dell Precision M6800, Intel Core i7 4910MQ 2.9MHz, 16GB RAM
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-anselm&bg_color=30,2E73A8,564695&title_color=fff&text_color=fff&border_radius=12)
