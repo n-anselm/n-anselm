@@ -28,7 +28,9 @@ Skills | Level
 
 ---
 
-Operating system: Manjaro Linux (Xfce, Deepin)
+Operating system: Manjaro Linux (GNOME)
+
+Shell (Customized with Starship): Fish, Zsh, and Bash
 
 Hardware: Dell Precision M6800, Intel Core i7 4910MQ 2.9MHz, 16GB RAM
 
