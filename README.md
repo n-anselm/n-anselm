@@ -21,6 +21,8 @@ Skills | Level
 **Java** | Intermediate
 **Linux** | Intermediate
 **Bash** | Intermediate
+**XML** | Intermediate
+**JavaScript** | Intermediate
 **Python** | Beginner
 **HTML** | Beginner
 **CSS** | Beginner
