@@ -3,38 +3,24 @@
 #### Hi, I'm n-anselm.
 
 ### Interests
-- Artificial Intelligence
-- Cryptocurrency
+- Software Development
+- Linux
+- AI / ML
 - Ethical Hacking / Pentesting
 - Graphic Design
 - IoT
-- Linux
-- Machine Learning
 - Open Source
-- Software Development
+- Cryptocurrency
 
 ---
 
-Skills | Level
------|-----
-**Markdown** | Pro
-**Java** | Intermediate
-**Linux** | Intermediate
-**Bash** | Intermediate
-**XML** | Intermediate
-**JavaScript** | Intermediate
-**Python** | Beginner
-**HTML** | Beginner
-**CSS** | Beginner
-**Kotlin** | Beginner
+### Skills
+
+Java, Linux, Python, Bash, Kotlin, Markdown, XML, JavaScript, HTML, CSS
 
 ---
 
 Operating system: Manjaro Linux (GNOME)
-
-Shell (Customized with Starship): Fish, Zsh, and Bash
-
-Hardware: Dell Precision M6800, Intel Core i7 4910MQ 2.9MHz, 16GB RAM
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-anselm&bg_color=30,2E73A8,564695&title_color=fff&text_color=fff&border_radius=12)
