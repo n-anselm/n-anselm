@@ -3,20 +3,18 @@
 #### Hi, I'm n-anselm.
 
 ### Interests
-- Software Development
 - Linux
-- AI / ML
-- Ethical Hacking / Pentesting
-- Graphic Design
-- IoT
+- Software development
+- Graphics & animation
+- AI
+- Ethical hacking & pentesting
 - Open Source
-- Cryptocurrency
 
 ---
 
 ### Skills
 
-Java, Linux, Python, Bash, Kotlin, Markdown, XML, JavaScript, HTML, CSS
+Linux, Python, Bash, Java, Markdown, XML, HTML, CSS
 
 ---
 
