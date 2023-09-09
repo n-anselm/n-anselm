@@ -4,17 +4,27 @@
 
 ### Interests
 - Linux
-- Software development
-- Graphics & animation
+- Programming
+- Automation
+- Robotics
+- Video & animation
 - AI
-- Ethical hacking & pentesting
-- Open Source
+- Hacking
 
 ---
 
-### Skills
+### Tech Skills
 
-Linux, Python, Bash, Java, Markdown, XML, HTML, CSS
+- Linux
+- Windows
+- Python
+- Bash
+- Lua
+- Java
+- XML
+- HTML
+- CSS
+- Markdown
 
 ---
 
