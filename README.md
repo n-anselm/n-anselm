@@ -1,39 +1,19 @@
-<img src="https://github.com/n-anselm/n-anselm/blob/main/res/GitHub%20Profile%20Header%202.1.png" title="Profile header" />
-
 #### Hi, I'm n-anselm.
-[Website](https://n-anselm.github.io)
+[nanselm.com](https://nanselm.com)
 
 ---
 
-### Interests
+### What I'm busy with
+- Media (Video production, animation)
 - Linux
+- Local AI
+- IT solutions
 - Programming
+- Efficient workflows
 - Automation
-- Electronics
 - Mechatronics
 - Robotics
-- Video & animation
-- AI
-- Hacking
-
----
-
-### Tech Skills
-
-- Linux
-- Windows
-- Python
-- Bash
-- Lua
-- Java
-- XML
-- HTML
-- CSS
-- Markdown
-
----
-
-Operating system: Garuda Linux (GNOME)
+- 3D printing
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-anselm&bg_color=30,2E73A8,564695&title_color=fff&text_color=fff&border_radius=12)
