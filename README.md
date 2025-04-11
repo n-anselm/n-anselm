@@ -1,12 +1,20 @@
-#### Hi, I'm n-anselm.
+#### Hi, I'm n-anselm, a creative generalist.
 [nanselm.com](https://nanselm.com)
 
 ---
 
-### What I'm busy with
+### Software
+- Linux :)
+- Blender
+- DaVinci Resolve Studio
+- Obsidian + Excalidraw
+- OnShape
+- Inkscape
+
+### What I'm busy with:
 - Media (Video production, animation)
 - Linux
-- Local AI
+- AI
 - IT solutions
 - Programming
 - Efficient workflows
